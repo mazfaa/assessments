@@ -1,0 +1,7 @@
+select.dt-input {
+    padding: 0 1.5em !important;
+}
+
+.dt-column-order::before {
+    margin-bottom: 1.5px !important;
+}

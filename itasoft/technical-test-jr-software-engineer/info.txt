@@ -1,0 +1,14 @@
+aplikasi ini menggunakan php dengan framework Laravel, dan juga app ini telah dipasang beberapa tools dan package antara lain:
+
+Laravel breeze untuk auth dan dashboard
+Laravel spatie untuk roles and permissions
+Laravel sweetalert untuk alert
+Laravel export untuk export ke excel
+
+jika belum menginstall composer silahkan untuk menginstall composer terlebih dahulu
+
+lalu cd into project folder, jalankan migrasi atau import database yang terlampir satu folder dengan file project yang mana file nya bernama itasoft_test.sql
+
+diterminal jalankan: composer install
+
+lalu jalankan : php artisan serve
