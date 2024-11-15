@@ -1,0 +1,12 @@
+select.dt-input {
+	padding: 0 1.5em !important;
+}
+
+.dt-column-order::before {
+	margin-bottom: 1.5px !important;
+}
+
+input#phone {
+	width: 100% !important;
+	display: block;
+}
